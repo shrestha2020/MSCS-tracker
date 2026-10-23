@@ -37,6 +37,7 @@ const binCourses = {
     "CSCI 5839 User-Centered Design",
     "CSCI 5849 Input Interaction and Accessibility",
     "CSCI 5922 Neural Networks and Deep Learning",
+    "CSCI 5932 Deep Reinforcement Learning",
     "CSCI 5942 AI Engineering",
   ],
   bin3: [
@@ -68,23 +69,27 @@ const subplans = [
   },
   {
     value: "Artificial Intelligence (AIG)",
-    label: "Artificial Intelligence (AIG)",
+    label: "Artificial Intelligence (AIG) pre-Fall 2027",
     courses: [
       "CSCI 5202 - Intro to Robotics",
+      "CSCI 5214 - Big Data Architecture",
+      "CSCI 5254 - Convex Optimization",
       "CSCI 5302 - Advanced Robotics",
       "CSCI 5322 - Algorithmic Human-Robot Interaction",
       "CSCI 5352 - Network Analysis and Modeling",
-      "CSCI 5402 - Research Topics in Human-Robot Interaction",
+      "CSCI 5434 - Probability for Computer Science",
       "CSCI 5502 - Data Mining",
-      "CSCI 5616 - Introduction to Virtual Reality",
+      "CSCI 5622 - Machine Learning",
+      "CSCI 5673 - Distributed Systems",
       "CSCI 5722 - Computer Vision",
       "CSCI 5822 - Probabilistic Modeling in Human and Machine Learning",
       "CSCI 5832 - Natural Language Processing",
-      "CSCI 5839 - User-Centered Design and Development 1",
-      "CSCI 5849 - Input Interaction and Accessibility",
       "CSCI 5922 - Neural Networks and Deep Learning",
       "CSCI 5932 - Deep Reinforcement Learning",
       "CSCI 5942 - AI Engineering",
+      "CSCI 7000 - Special Topics [Robot Perception]",
+      "CSCI 7000 - Special Topics [Physical Human-Robot Interaction]",
+      "APPM 8500 - Statistics, Optimization, and Machine Learning"
     ],
   },
   {
@@ -195,6 +200,9 @@ const subplans = [
     label: "Security (SEC)",
     courses: [
       "CSCI 5113 - Linux System Administration",
+      "CSCI 5160 - Introduction to Enterprise Networks"
+      "CSCI 5180 - Network Management & Automation",
+      "CSCI 5253 - Datacenter Scale Computing",
       "CSCI 5273 - Network Systems",
       "CSCI 5403 / CYBR 5300 - Cybersecurity",
       "CSCI 5413 - Ethical Hacking",
@@ -207,6 +215,7 @@ const subplans = [
       "CYBR 5830 - Special Topics [Software Reverse Engineering]",
       "ECEN 5133 - Fundamentals of Computer Security",
       "ECEN 5793 - Secure Computer Architecture",
+      "MATH 5440 - Mathematics of Coding and Cryptography",
     ],
   },
   {
