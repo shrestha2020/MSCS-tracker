@@ -201,7 +201,7 @@ const subplans = [
     label: "Security (SEC)",
     courses: [
       "CSCI 5113 - Linux System Administration",
-      "CSCI 5160 - Introduction to Enterprise Networks"
+      "CSCI 5160 - Introduction to Enterprise Networks",
       "CSCI 5180 - Network Management & Automation",
       "CSCI 5253 - Datacenter Scale Computing",
       "CSCI 5273 - Network Systems",
@@ -240,6 +240,7 @@ const subplans = [
     ],
   },
 ];
+
 
 const GENERAL_TRACK = subplans[0].value;
 const SUBPLAN_COURSES_REQUIRED = 4;
