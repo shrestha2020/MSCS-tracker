@@ -56,6 +56,7 @@ const binCourses = {
     "CSCI 5673 Distributed Systems",
     "CSCI 5817 Database Systems",
     "CSCI 5828 Foundations of Software Engineering",
+    "CSCI 5848 Agentic Software Engineering",
     "CSCI 5854 Theoretical Foundation of Autonomous Systems",
   ],
 };
@@ -235,6 +236,7 @@ const subplans = [
       "CSCI 5673 - Distributed Systems",
       "CSCI 5817 - Database Systems",
       "CSCI 5828 - Foundations of Software Engineering",
+      "CSCI 5848 - Agentic Software Engineering",
     ],
   },
 ];
